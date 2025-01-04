@@ -4,8 +4,9 @@ h2{
 div{
     padding: 10px;
     border: 20px solid rgb(195, 175, 175);
-    margin: auto;
+    margin: 30px;
     border-radius: 20px;
+    box-shadow: 20px 20px 20px rgb(197, 41, 41);
     
 
 }
