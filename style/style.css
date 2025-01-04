@@ -1,14 +1,19 @@
 *{
-    background-color: dimgrey;
+    /* background-color: dimgrey; */
     font-style: initial;
+    background-image: url("../photo/baground.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
 
 }
 div{
-    border: 30px solid rgb(246, 243, 242);
+    border: 30px solid rgba(245, 236, 233, 0.718);
     border-radius: 20px;
     padding: 25px;
     margin: 40px auto;
-    box-shadow: 20px 20px 30px rgb(102, 120, 76);
+    box-shadow: 20px 20px 30px rgba(82, 72, 35, 0.566);
 }
 .resize{
     width: 200px;
