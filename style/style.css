@@ -1,0 +1,17 @@
+*{
+    background-color: dimgrey;
+    font-style: initial;
+
+}
+div{
+    border: 30px solid rgb(246, 243, 242);
+    border-radius: 20px;
+    padding: 25px;
+    margin: 40px auto;
+    box-shadow: 20px 20px 30px rgb(102, 120, 76);
+}
+.resize{
+    width: 200px;
+    height: auto;
+
+}
