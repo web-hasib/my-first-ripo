@@ -1,10 +1,10 @@
 *{
     /* background-color: dimgrey; */
-    font-style: initial;
+    /* font-style: initial;
     background-image: url("../photo/baground.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; */
 
 
 }
@@ -19,4 +19,9 @@ div{
     width: 200px;
     height: auto;
 
+}
+body{
+    background-image: url("../photo/baground.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
